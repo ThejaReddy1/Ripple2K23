@@ -37,7 +37,7 @@
                             <li><a href="#">Contact</a></li>
                         </ul>
                         <div class="copyright-text"><p><!-- Link back to CSE-Aliens can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This Website is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://CSE-Aliens.com" target="_blank">CSE-Aliens</a>
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This Website is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="developers.php" target="_blank">CSE-Aliens</a>
   <!-- Link back to CSE-Aliens can't be removed. Template is licensed under CC BY 3.0. --></p></div>
                         <div class="ft-social">
                             <a href="https://www.facebook.com/people/RGM-College-of-Engineering-Technology/100063849920983/"><i class="fa fa-facebook"></i></a>
