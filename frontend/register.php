@@ -48,7 +48,7 @@ session_start();
                             <div class="card-body p-4">
                                 <h3 class="auth-title" style="text-align:center"><?php echo $_SESSION['event']." Registration"; ?></h3>
                                 <hr/>
-                                <form action="dbregister.php" method="post">
+                                <form action="../backend/dbregister.php" method="post">
                                     
                                     <div class="row">
                                     <div class="col-md-6">

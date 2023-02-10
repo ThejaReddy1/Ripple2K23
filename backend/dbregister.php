@@ -31,7 +31,7 @@
                             echo "<script>alert('Successfully Registered')</script>";
 
                             // session_destroy();
-                            header('Location: Successful.php');
+                            header('Location: ../frontend/Successful.php');
 
                         }
                     }

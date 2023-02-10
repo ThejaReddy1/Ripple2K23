@@ -2,7 +2,7 @@
 
 <body>
 
-            <div class="conatct">
+            <div class="conatct" style="margin:100px;">
                 <h1 align="center">Successfully Registred<br>Thank You.</h1>
             </div>
 
