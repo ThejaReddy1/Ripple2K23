@@ -54,7 +54,7 @@
                         </li>
                         <li><a href="./schedule.html">Schedule</a></li>
                         <li><a href="./blog.html">Glimpses</a></li>
-                        <li><a href="./contact.html">Contacts</a></li>
+                        <li><a href="./contact.html">Contact Us</a></li>
                     </ul>
                 </nav>
             </div>
