@@ -4,6 +4,7 @@
       {
           $firstname=ucfirst($_POST["fname"]);
           $lastname=ucfirst($_POST["lname"]);
+          $gender=$_POST['gender'];
           $collegeid=strtoupper($_POST["collegeid"]);
           $phoneno=$_POST["phone"];
           $email=$_POST["email"];
@@ -26,7 +27,7 @@
                         
                     }
                     else if($num_rows == 0){
-                        $query = "INSERT INTO registrations VALUES ('$firstname','$lastname','$collegeid','$phoneno','$email','$collegename','$year','$branch','$event')";
+                        $query = "INSERT INTO registrations VALUES ('$firstname','$lastname','$gender','$collegeid','$phoneno','$email','$collegename','$year','$branch','$event')";
                         if($query_run = mysqli_query($mycon,$query)){
                             echo "<script>alert('Successfully Registered')</script>";
 

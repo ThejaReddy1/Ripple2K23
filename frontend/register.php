@@ -66,7 +66,7 @@ session_start();
                         
                                     <div class="col-md-12">
                                         <div class="form-group mb-3">
-                                        <label for="Gender">Gender</label>
+                                        <label for="gender">Gender</label>
                                         <select class="form-control" name="gender" required>
                                                 <option selected="" disabled="">--Select--</option>
                                                 <option value="Male">Male</option>
