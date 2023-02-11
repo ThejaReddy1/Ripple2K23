@@ -94,7 +94,7 @@
                                 <div class="si-text">
                                     <div class="si-title">
                                         <h4>Ravindra Reddy</h4>
-                                        <span>Backend Developer</span>
+                                        <span>Backend Supporter</span>
                                     </div>
                                     <div class="si-social">
                                         <a href="#"><i class="fa fa-facebook"></i></a>
@@ -121,7 +121,7 @@
                                 <div class="si-text">
                                     <div class="si-title">
                                         <h4>Vamsi Mohan Reddy</h4>
-                                        <span>Frontend Developer</span>
+                                        <span>Frontend Supporter</span>
                                     </div>
                                     <div class="si-social">
                                         <a href="#"><i class="fa fa-facebook"></i></a>
@@ -136,7 +136,7 @@
                         </div>
                     </div>
                 </div>
-                <!-- <div class="col-sm-6">
+                <div class="col-sm-6">
                     <div class="speaker-item">
                         <div class="row">
                             <div class="col-lg-6">
@@ -163,7 +163,7 @@
                         </div>
                     </div>
                 </div> -->
-                <!-- <div class="col-sm-6">
+                <div class="col-sm-6"> 
                     <div class="speaker-item">
                         <div class="row">
                             <div class="col-lg-6">
@@ -174,8 +174,8 @@
                             <div class="col-lg-6">
                                 <div class="si-text">
                                     <div class="si-title">
-                                        <h4>Harriet Freeman</h4>
-                                        <span>Marketing Manager</span>
+                                        <h4>Vamsi Krishna Reddy .P</h4>
+                                        <span>Frontend Supporter</span>
                                     </div>
                                     <div class="si-social">
                                         <a href="#"><i class="fa fa-facebook"></i></a>
