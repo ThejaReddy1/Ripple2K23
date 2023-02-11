@@ -136,33 +136,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-6">
-                    <div class="speaker-item">
-                        <div class="row">
-                            <div class="col-lg-6">
-                                <div class="si-pic">
-                                    <img src="img/speakers/speaker-5.jpg" alt="">
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="si-text">
-                                    <div class="si-title">
-                                        <h4>Emma Sandoval </h4>
-                                        <span>CEO</span>
-                                    </div>
-                                    <div class="si-social">
-                                        <a href="#"><i class="fa fa-facebook"></i></a>
-                                        <a href="#"><i class="fa fa-twitter"></i></a>
-                                        <a href="#"><i class="fa fa-google-plus"></i></a>
-                                    </div>
-                                    <p>Businesses often become known today through effective marketing. The marketing
-                                        may be in the form of a regular news item or half column society news in the
-                                        Sunday newspaper.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div> -->
+                
                 <div class="col-sm-6"> 
                     <div class="speaker-item">
                         <div class="row">
@@ -189,7 +163,7 @@
                             </div>
                         </div>
                     </div>
-                </div> -->
+                </div> 
             </div>
             <!-- <div class="load-more">
                 <a href="#" class="primary-btn">Load More</a>
