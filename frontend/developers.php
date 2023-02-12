@@ -33,7 +33,7 @@
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="si-pic">
-                                    <img src="img/speakers/speaker-1.jpg" alt="">
+                                    <img src="img/team-member/teja black.jpg" alt="" style="height:350px;width:350px;">
                                 </div>
                             </div>
                             <div class="col-lg-6">
@@ -60,7 +60,7 @@
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="si-pic">
-                                    <img src="img/speakers/speaker-2.jpg" alt="">
+                                    <img src="img/team-member/subbu.jpg" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-6">
@@ -87,7 +87,7 @@
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="si-pic">
-                                    <img src="img/speakers/speaker-3.jpg" alt="">
+                                    <img src="img/team-member/ravi.jpg" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-6">
@@ -142,7 +142,7 @@
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="si-pic">
-                                    <img src="img/speakers/speaker-6.jpg" alt="">
+                                    <img src="img/team-member/nani.jpg" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-6">
