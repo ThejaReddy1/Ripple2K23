@@ -43,9 +43,10 @@
                                         <span>Frontend Developer</span>
                                     </div>
                                     <div class="si-social">
-                                        <a href="#"><i class="fa fa-facebook"></i></a>
-                                        <a href="#"><i class="fa fa-twitter"></i></a>
-                                        <a href="#"><i class="fa fa-google-plus"></i></a>
+                                        <a href="https://www.facebook.com/thejareddy.gundlooru.9/"><i class="fa fa-facebook"></i></a>
+                                        <a href="https://www.linkedin.com/in/thejareddy007"><i class="fa fa-linkedin"></i></a>
+                                        <a href="https://github.com/ThejaReddy1"><i class="fa fa-github"></i></a>
+                                        <a href="https://www.instagram.com/theja_reddy_theja/"><i class="fa fa-instagram"></i></a>
                                     </div>
                                     <p>Businesses often become known today through effective marketing. The marketing
                                         may be in the form of a regular news item or half column society news in the
@@ -70,9 +71,10 @@
                                         <span>Backend Developer</span>
                                     </div>
                                     <div class="si-social">
-                                        <a href="#"><i class="fa fa-facebook"></i></a>
-                                        <a href="#"><i class="fa fa-twitter"></i></a>
-                                        <a href="#"><i class="fa fa-google-plus"></i></a>
+                                        <a href="https://www.facebook.com/Subbaramireddy27/"><i class="fa fa-facebook"></i></a>
+                                        <a href="https://www.linkedin.com/in/subbaramireddy/"><i class="fa fa-linkedin"></i></a>
+                                        <a href="https://github.com/SUBBARAMIREDDY-K"><i class="fa fa-github"></i></a>
+                                        <a href="https://www.instagram.com/subbaramireddy__k/"><i class="fa fa-instagram"></i></a>
                                     </div>
                                     <p>Businesses often become known today through effective marketing. The marketing
                                         may be in the form of a regular news item or half column society news in the
@@ -98,8 +100,9 @@
                                     </div>
                                     <div class="si-social">
                                         <a href="#"><i class="fa fa-facebook"></i></a>
-                                        <a href="#"><i class="fa fa-twitter"></i></a>
-                                        <a href="#"><i class="fa fa-google-plus"></i></a>
+                                        <a href="https://www.linkedin.com/in/venkata-ravindra-reddy-yarasu-b582b6238"><i class="fa fa-linkedin"></i></a>
+                                        <a href="#"><i class="fa fa-github"></i></a>
+                                        <a href="#"><i class="fa fa-instagram"></i></a>
                                     </div>
                                     <p>Businesses often become known today through effective marketing. The marketing
                                         may be in the form of a regular news item or half column society news in the
@@ -114,7 +117,7 @@
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="si-pic">
-                                    <img src="img/speakers/speaker-4.jpg" alt="">
+                                    <img src="img/team-member/vamsi.jpg" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-6">
@@ -124,9 +127,10 @@
                                         <span>Frontend Supporter</span>
                                     </div>
                                     <div class="si-social">
-                                        <a href="#"><i class="fa fa-facebook"></i></a>
-                                        <a href="#"><i class="fa fa-twitter"></i></a>
-                                        <a href="#"><i class="fa fa-google-plus"></i></a>
+                                        <a href="https://www.facebook.com/vamsimohanreddy.kommaddi?mibextid=ZbWKwL"><i class="fa fa-facebook"></i></a>
+                                        <a href="https://www.linkedin.com/in/vamsi-mohan-reddy-kommaddi-4251a8226"><i class="fa fa-linkedin"></i></a>
+                                        <a href="https://github.com/vamsimohanreddykommaddi"><i class="fa fa-github"></i></a>
+                                        <a href="https://instagram.com/kommaddivamsimohanreddy?igshid=ZDdkNTZiNTM=""><i class="fa fa-instagram"></i></a>
                                     </div>
                                     <p>Businesses often become known today through effective marketing. The marketing
                                         may be in the form of a regular news item or half column society news in the
@@ -153,8 +157,9 @@
                                     </div>
                                     <div class="si-social">
                                         <a href="#"><i class="fa fa-facebook"></i></a>
-                                        <a href="#"><i class="fa fa-twitter"></i></a>
-                                        <a href="#"><i class="fa fa-google-plus"></i></a>
+                                        <a href="#"><i class="fa fa-linkedin"></i></a>
+                                        <a href="#"><i class="fa fa-github"></i></a>
+                                        <a href="#"><i class="fa fa-instagram"></i></a>
                                     </div>
                                     <p>Businesses often become known today through effective marketing. The marketing
                                         may be in the form of a regular news item or half column society news in the
