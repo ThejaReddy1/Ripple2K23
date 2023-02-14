@@ -29,20 +29,20 @@ session_start();
                             <div class="card-body p-4">
                                 <h3 class="auth-title" style="text-align:center"><?php echo $_SESSION['event']." Registration"; ?></h3>
                                 <hr/>
-                                <form action="../backend/dbregister.php"  method="post" id="form" >
+                                <form action="../backend/dbregister.php"  method="post" id="form">
                                     
                                     <div class="row">
                                     <div class="col-md-6">
                                         <div class="form-group mb-3">
                                             <label for="fname">Firstname</label>
-                                            <input class="form-control" type="text" id="fname" name="fname" placeholder="Enter your Firstname" required>
+                                            <input class="form-control" type="text" id="fname" name="fname" placeholder="Enter your Firstname" required pattern='[a-zA-Z]+/s[a-Z]'>
                                             
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="form-group mb-3">
                                             <label for="lname">Lastname</label>
-                                            <input class="form-control" type="text" id="lname" name="lname" placeholder="Enter your Lastname" required>
+                                            <input class="form-control" type="text" id="lname" name="lname" placeholder="Enter your Lastname" required pattern='[a-zA-Z]+'>
                                             
                                         </div>
                                     </div>
@@ -72,7 +72,7 @@ session_start();
                                     <div class="col-md-6">
                                         <div class="form-group mb-3">
                                             <label for="phone">Phone</label>
-                                            <input class="form-control" type="tel" id="phone" name="phone" placeholder="Enter your Phone" required>
+                                            <input class="form-control" type="tel" id="phone" name="phone" placeholder="Enter your Phone" required pattern='^[6-9][0-9]{9}'>
                                             
                                         </div>
                                     </div>
@@ -81,14 +81,14 @@ session_start();
                                     <div class="col-md-12">
                                         <div class="form-group mb-3">
                                             <label for="clgid">College Id</label>
-                                            <input class="form-control" type="text" id="clgid" name="collegeid" placeholder="Enter your college Id" required>
+                                            <input class="form-control" type="text" id="clgid" name="collegeid" placeholder="Enter your college Id" required pattern='^[1-9][0-9]{3}[a-Z][0-9]{2}[a-Z0-9][0-9]'>
                                             
                                         </div>
                                     </div>
                                     <div class="col-md-12">
                                         <div class="form-group mb-3">
                                             <label for="clgname">College Name</label>
-                                            <input class="form-control" type="text" id="clgname" name="collegename" placeholder="Enter your College Name" required>
+                                            <input class="form-control" type="text" id="clgname" name="collegename" placeholder="Enter your College Name" required pattern='[a-zA-Z]+'>
                                             
                                         </div>
                                     </div>
@@ -130,7 +130,7 @@ session_start();
                                     </div>
                                     <div class="col-md-12">
                                         <div class="form-group mb-0 text-center">
-                                            <input class="btn btn-danger btn-block" type="submit" name="submit">  
+                                            <input class="btn btn-danger btn-block" type="submit" name="submit" value="Submit">  
                                         </div>
                                     </div>
                                     </div>
@@ -148,7 +148,7 @@ session_start();
             <!-- end container -->
         </div>
         <!-- end page -->
-       
+        
 <?php include "footer.php"?>
 </body>
 

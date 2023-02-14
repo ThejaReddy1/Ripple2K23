@@ -27,7 +27,7 @@
                         
                     }
                     else if($num_rows == 0){
-                        $query = "INSERT INTO registrations VALUES ('$firstname','$lastname','$gender','$collegeid','$phoneno','$email','$collegename','$year','$branch','$event')";
+                        $query = "INSERT INTO registrations VALUES ('$firstname','$lastname','$gender','$collegeid','$phoneno','$email','$collegename','$branch','$year','$event')";
                         if($query_run = mysqli_query($mycon,$query)){
                             echo "<script>alert('Successfully Registered')</script>";
 
