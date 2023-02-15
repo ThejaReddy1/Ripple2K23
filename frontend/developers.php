@@ -33,7 +33,7 @@
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="si-pic">
-                                    <img src="img/team-member/teja black.jpg" alt="" style="height:350px;width:350px;">
+                                    <img src="img/team-member/teja_black.jpg" alt="" style="height:350px;width:350px;">
                                 </div>
                             </div>
                             <div class="col-lg-6">
@@ -99,10 +99,10 @@
                                         <span>Backend Supporter</span>
                                     </div>
                                     <div class="si-social">
-                                        <a href="#"><i class="fa fa-facebook"></i></a>
+                                        <a href="https://www.facebook.com/lovely.ravindra.50"><i class="fa fa-facebook"></i></a>
                                         <a href="https://www.linkedin.com/in/venkata-ravindra-reddy-yarasu-b582b6238"><i class="fa fa-linkedin"></i></a>
-                                        <a href="#"><i class="fa fa-github"></i></a>
-                                        <a href="#"><i class="fa fa-instagram"></i></a>
+                                        <a href="https://github.com/Ravindra-799"><i class="fa fa-github"></i></a>
+                                        <a href="https://instagram.com/__lovely__ravindra?igshid=ZDdkNTZiNTM="><i class="fa fa-instagram"></i></a>
                                     </div>
                                     <p>Businesses often become known today through effective marketing. The marketing
                                         may be in the form of a regular news item or half column society news in the
@@ -156,10 +156,10 @@
                                         <span>Frontend Supporter</span>
                                     </div>
                                     <div class="si-social">
-                                        <a href="#"><i class="fa fa-facebook"></i></a>
-                                        <a href="#"><i class="fa fa-linkedin"></i></a>
-                                        <a href="#"><i class="fa fa-github"></i></a>
-                                        <a href="#"><i class="fa fa-instagram"></i></a>
+                                        <a href="https://www.facebook.com/nani.s.733450?mibextid=ZbWKwL"><i class="fa fa-facebook"></i></a>
+                                        <a href="https://www.linkedin.com/in/vamsi-krishna-reddy-palagiri-6aa774225"><i class="fa fa-linkedin"></i></a>
+                                        <a href="https://github.com/vamsi7989"><i class="fa fa-github"></i></a>
+                                        <a href="https://instagram.com/nani__s21?igshid=ZDdkNTZiNTM="><i class="fa fa-instagram"></i></a>
                                     </div>
                                     <p>Businesses often become known today through effective marketing. The marketing
                                         may be in the form of a regular news item or half column society news in the

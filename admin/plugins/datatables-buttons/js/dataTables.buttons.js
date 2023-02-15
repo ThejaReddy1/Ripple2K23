@@ -2181,7 +2181,7 @@ DataTable.Api.register( 'buttons.info()', function ( title, message, time ) {
 				$(this).remove();
 			}
 		);
-		clearTimeout( _infoTimer );
+		clearTimeout( _info );
 		_infoTimer = null;
 
 		return this;

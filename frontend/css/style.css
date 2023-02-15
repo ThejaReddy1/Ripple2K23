@@ -555,7 +555,7 @@ ol {
 .member-item {
 	width: 20%;
 	float: left;
-	height: 420px;
+	height: 250px;
 	position: relative;
 	overflow: hidden;
 }
@@ -886,7 +886,7 @@ ol {
 }
 
 .latest-item {
-	height: 255px;
+	height: 250px;
 	position: relative;
 	margin-bottom: 40px;
 	margin-left: 15px;
@@ -896,7 +896,7 @@ ol {
 }
 
 .latest-item.large-item {
-	height: 550px;
+	height: 250px;
 	margin-right: 15px;
 	margin-left: 0;
 }
@@ -2239,7 +2239,7 @@ ol {
 	}
 	.member-item {
 		width: 25%;
-		height: 310px;
+		height: 250px;
 	}
 	.testimonial-slider.owl-carousel .owl-nav button {
 		left: -10px;
